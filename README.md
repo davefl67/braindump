@@ -1,2 +1,4 @@
-# Call me crazy
-I set up this repository to brain dump ideas for FiveM scripts.
+# Dave's Brain Dump
+These are ideas for FiveM scripts. Each file in the repo is a general outline for a resource.
+### Q: You actually think you are a developer?
+**A:** I have to start somewhere?
